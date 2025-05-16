@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on BAHANA
-- 🌱 I’m currently learning Web Develop
+- 🔭 I’m currently working on **BAHANA**
+- 🌱 I’m currently learning **Web Develop**
